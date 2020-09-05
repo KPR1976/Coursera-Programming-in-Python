@@ -1,3 +1,7 @@
+"""
+Week 2 Programming Assignment: Key-value storage
+"""
+
 import os
 import tempfile
 import argparse
